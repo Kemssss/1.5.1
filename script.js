@@ -1,6 +1,5 @@
 function init(){
     document.getElementById("knapp").onclick = click;
-    document.getElementById("text") = hidden;
 }
 
 function click(){
